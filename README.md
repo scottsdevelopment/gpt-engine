@@ -38,7 +38,7 @@ GptEngine provides a **flexible architecture** designed around sessions, provide
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/gpt-engine.git
+   git clone https://github.com/scottsdevelopment/gpt-engine.git
    cd gpt-engine
    ```
 
